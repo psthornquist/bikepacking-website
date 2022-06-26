@@ -1,0 +1,36 @@
+header { 
+    background: #2E8B57;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    display: block;
+}
+
+body { 
+    background-color: #87CEEB;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h2.body {
+    text-align: center;
+}
+
+#wrapper { 
+    background-color: #D2B48C;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px 3px #777;
+}
+
+footer { font-size: .70em;
+    font-style: italic;
+    text-align: center;
+    padding: 1em;
+}
